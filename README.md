@@ -8,4 +8,4 @@ This script is a work in progress. Improvements to be made soon are:
 
 
 This repository is licensed under the terms of the MIT license and free for use with citation. 
-Project citation: Acharya, J and M Nibbelink. 2022. Missing Data Calculator. https://github.com/megannibbs/nibbels-o-botany/MissingDataCalculator/
+Project citation: Acharya, J and M Nibbelink. 2022. Missing Data Calculator. https://github.com/megannibbs/MissingDataCalculator/
