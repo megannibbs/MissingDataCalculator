@@ -1,9 +1,13 @@
 # MissingDataCalculator
 
 This script is a work in progress. Improvements to be made soon are: 
+  
   Direct read-in of NEXUS files
-  Accomodate multistate codings
+  
+  Accomodate multistate codings - if present, this can be currently circumvented by changing to one of the other coding
+  
   Ability to choose new taxa after completing calculations without needing to relaunch script.
+  
   Select entire matrix for calculation without needing to name taxa individually. 
 
 
